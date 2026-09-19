@@ -58,6 +58,3 @@ A simple template for texture packs with custom modeldata.
 **Step 4**
 - add your texture to "template\assets\your-namespace-here\textures\item"
 - make sure its a ".png" file
-
-if something isnt working out for you, i also made a tutorial at "!!youtube link here!!"
-or just add me on discord "nr1_jaz"
