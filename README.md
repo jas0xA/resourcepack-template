@@ -1,4 +1,4 @@
-# resourcepack-template
+# resourcepack-template working( 1.21.11 )
 A simple template for texture packs with custom modeldata.
 
 ### **there are a few steps to do before you can actualy start customizing.**
@@ -7,6 +7,7 @@ A simple template for texture packs with custom modeldata.
 2. add a json file for your item
 3. also add a json for the models/item folder
 4. add your texture
+5. change pack version in pack.mcmeta, versions can be found [here](https://minecraft.wiki/w/Pack_format#Resource_pack_format_history)
 
 **Step 1**
 - inside of "template\assets\" rename the folder called "your-namespace-here" to whatever you want it to be.
